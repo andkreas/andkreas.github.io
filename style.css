@@ -29,7 +29,7 @@
     background-color: red;
     position: relative;
     top: 130px;
-    left: 256px;
+    left: 236px;
     animation: block 1s infinite linear;
 }
 @keyframes block{
