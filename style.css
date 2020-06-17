@@ -3,14 +3,14 @@
 	margin: 0;
 }
 #game{
-	width: 500px;
-	height: 200px;
+	width: 256px;
+	height: 256px;
 	border: 1px solid black;
 }
 #character{
 	width: 20px;
 	height: 50px;
-	background-color: red;
+	background-color: #33B2FF;
 	position: relative;
 	top: 150px;
 }
@@ -26,7 +26,7 @@
 #block{
     width: 20px;
     height: 20px;
-    background-color: blue;
+    background-color: red;
     position: relative;
     top: 130px;
     left: 480px;
